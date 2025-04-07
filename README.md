@@ -2,18 +2,10 @@
 <!-- Example: Test-Time Scaling Atlas: A Unified Framework for Inference-Time Reasoning in LLMs -->
 
 
-<div style="float: right; width: 40%; margin-left: 20px;">
-  <img src="figs/figure1_main.png" width="100%">
-  <p style="text-align: center;"><b>Figure 1:</b> TTS Taxonomy</p>
-</div>
+| <img src="figs/figure1_main.png" width="400"/> | 这Crowd-based Comparative Evaluation:</b> is a test-time scaling strategy for LLM-as-a-Judge. It supports introducing additional crowd responses to compare with the candidate responses, thereby exposing deeper and more comprehensive details within the candidate responses. Our approach is inspired by human evaluative behavior: humans merely compare candidates in isolation by also contrasting them against a broader crowd, thereby uncovering additional nuanced insights about each candidate. |
+|-------------------------------------------|-------------------------------------------------------------------------------------------------------|
 
-Crowd-based Comparative Evaluation:</b> is a test-time scaling strategy for LLM-as-a-Judge. 
-It supports introducing additional crowd responses to compare with the candidate responses, thereby exposing deeper and more comprehensive details within the candidate responses.
-Our approach is inspired by human evaluative behavior:
-humans merely compare candidates in isolation
-by also contrasting them against a broader crowd,
-thereby uncovering additional nuanced insights
-about each candidate.
+
 
 ## 📢 News and Updates
 
@@ -25,11 +17,11 @@ about each candidate.
 
 <!-- Add 1-3 key diagrams or tables summarizing your project -->
 
-<img src="figs/figure2_main.png" width="600"/> 
+<img src="figs/figure2_main.png" width="1000"/> 
 
 <p align="center"><b>Figure 1:</b> Pipeline of the Crowd-based Comparative Evaluation.</p>
 
-<img src="figs/scaling_inference.png" width="600"/> 
+<img src="figs/scaling_inference.png" width="1000"/> 
 
 <p align="center"><b>Figure 1:</b> Evaluation performance under scaling crowd judgments in the context. As the number of crowd judgments grows, both accuracy and CoT length generally increase.</p>
 
