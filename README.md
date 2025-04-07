@@ -2,21 +2,18 @@
 <!-- Example: Test-Time Scaling Atlas: A Unified Framework for Inference-Time Reasoning in LLMs -->
 
 
-<div style="display: flex; align-items: center;">
-  <div style="width: 60%;">
-    <p><b>Crowd-based Comparative Evaluation:</b> is a test-time scaling strategy for LLM-as-a-Judge. 
+<div style="float: right; width: 40%; margin-left: 20px;">
+  <img src="figs/figure1_main.png" width="100%">
+  <p style="text-align: center;"><b>Figure 1:</b> TTS Taxonomy</p>
+</div>
+
+Crowd-based Comparative Evaluation:</b> is a test-time scaling strategy for LLM-as-a-Judge. 
 It supports introducing additional crowd responses to compare with the candidate responses, thereby exposing deeper and more comprehensive details within the candidate responses.
 Our approach is inspired by human evaluative behavior:
 humans merely compare candidates in isolation
 by also contrasting them against a broader crowd,
 thereby uncovering additional nuanced insights
-about each candidate.</p>
-  </div>
-  <div style="width: 40%; text-align: center;">
-    <img src="figs/figure1_main.png" width="90%">
-    <p><b>Figure:</b> Summary of the Crowd-based Comparative Evaluation.</p>
-  </div>
-</div>
+about each candidate.
 
 ## 📢 News and Updates
 
