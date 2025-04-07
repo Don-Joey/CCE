@@ -41,15 +41,15 @@ There are more detailed results in our paper~
 1. Clone the repository and navigate to the project folder:
 
 ```bash
-git clone https://github.com/your-org/your-project-name.git
-cd your-project-name
+git clone https://github.com/Don-Joey/CCE.git
+cd CCE
 ```
 
 2. Create the environment and install dependencies:
    
 ```bash
-conda create -n your_env_name python=3.10 -y
-conda activate your_env_name
+conda create -n cce python=3.10 -y
+conda activate cce
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
