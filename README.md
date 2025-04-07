@@ -5,9 +5,8 @@
 
 <div align="center">
   <img src="figs/figure1_main.png" width="400"/>
+  <p><b>Figure 1:</b> Summary of the Crowd-based Comparative Evaluation.</p>
 </div>
-
-**Figure 1:** Summary of the Crowd-based Comparative Evaluation.
 
 **Crowd-based Comparative Evaluation** is a test-time scaling strategy for LLM-as-a-Judge. It supports introducing additional crowd responses to compare with the candidate responses, thereby exposing deeper and more comprehensive details within the candidate responses. Our approach is inspired by human evaluative behavior: humans merely compare candidates in isolation by also contrasting them against a broader crowd, thereby uncovering additional nuanced insights about each candidate.
 
