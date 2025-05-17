@@ -12,6 +12,8 @@
 
 ## 📢 News and Updates
 
+- **[May 2025]** 📌 Our paper has been accepted in ACL 2025!
+  
 - **[Feb 2025]** 📌 Our initial paper is on [**Arxiv**](https://arxiv.org/abs/2502.12501v1)!
 
 ---
