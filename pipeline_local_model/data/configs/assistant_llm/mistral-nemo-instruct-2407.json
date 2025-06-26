@@ -1,0 +1,12 @@
+{
+    "model_name": "mistral-nemo-instruct-2407",
+    "model_path": "/data/qiyuan/Mistral-Nemo-Instruct-2407",
+    "temperature": 1.0,
+    "top_p": 1.0,
+    "do_sample": true,
+    "max_new_tokens": 2048,
+    "load_in_8bit": false,
+    "load_in_float16": false,
+    "gptq": false,
+    "use_slow_tokenizer": false
+}

@@ -1,0 +1,12 @@
+{
+    "model_name": "qwen2.5-7b-instruct",
+    "model_path": "/data/qiyuan/Qwen2.5-7B-Instruct",
+    "temperature": 1.0,
+    "top_p": 1.0,
+    "do_sample": true,
+    "max_new_tokens": 2048,
+    "load_in_8bit": false,
+    "load_in_float16": false,
+    "gptq": false,
+    "use_slow_tokenizer": false
+}

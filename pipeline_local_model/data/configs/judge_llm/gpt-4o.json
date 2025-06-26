@@ -1,0 +1,6 @@
+{
+    "model_name": "gpt-4o",
+    "temperature": 1.0,
+    "api_key": "sk-T52JbbSxOZJJ4uZKB316753d2e9945918e254dF59e22D131",
+    "base_url": "https://az.gptplus5.com/v1"
+}
